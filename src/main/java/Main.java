@@ -27,6 +27,13 @@ public class Main {
                 .toList();
         System.out.println("Verdoppelte Zahlen: " + doubledNumbers);
 
+        List<Integer> sortedNumbers = numbers.stream()
+                .sorted()
+                .toList();
+
+        System.out.println("Sortierte Zahlen: " + sortedNumbers);
+
+
 
     }
 }
