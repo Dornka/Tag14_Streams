@@ -33,7 +33,10 @@ public class Main {
 
         System.out.println("Sortierte Zahlen: " + sortedNumbers);
 
+        int sum = numbers.stream()
+                .reduce(0, Integer::sum);
 
+        System.out.println("Die Summe aller Zahlen: " + sum);
 
     }
 }
