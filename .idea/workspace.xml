@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3de02d31-27a0-46e8-be96-53150fab827b" name="Changes" comment="added sum .reduce">
+    <list default="true" id="3de02d31-27a0-46e8-be96-53150fab827b" name="Changes" comment="added .forEach">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694075525469</updated>
-      <workItem from="1694075526457" duration="3429000" />
+      <workItem from="1694075526457" duration="5296000" />
     </task>
     <task id="LOCAL-00001" summary="added .map doubledNumbers">
       <option name="closed" value="true" />
@@ -88,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694078646216</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added .forEach">
+      <option name="closed" value="true" />
+      <created>1694079070295</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694079070295</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +107,7 @@
     <MESSAGE value="added .map doubledNumbers" />
     <MESSAGE value="added .sortedNumbers" />
     <MESSAGE value="added sum .reduce" />
-    <option name="LAST_COMMIT_MESSAGE" value="added sum .reduce" />
+    <MESSAGE value="added .forEach" />
+    <option name="LAST_COMMIT_MESSAGE" value="added .forEach" />
   </component>
 </project>

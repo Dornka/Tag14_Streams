@@ -40,5 +40,11 @@ public class Main {
 
         numbers.stream()
                 .forEach(n -> System.out.println(("Zahl: " + n )));
+
+        List<Integer> processedNumbers = numbers.stream()
+                .map(n -> n *2)
+                .collect(Collectors.toList());
+
+        System.out.println("Zahlen: " + processedNumbers);
     }
 }
