@@ -38,5 +38,7 @@ public class Main {
 
         System.out.println("Die Summe aller Zahlen: " + sum);
 
+        numbers.stream()
+                .forEach(n -> System.out.println(("Zahl: " + n )));
     }
 }
